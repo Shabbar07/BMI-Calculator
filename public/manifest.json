@@ -1,0 +1,35 @@
+{
+  "name": "MyBMI - Professional BMI Calculator",
+  "short_name": "MyBMI",
+  "description": "A modern, responsive, and privacy-first BMI calculator with PDF report generation. Calculate your Body Mass Index instantly and get personalized health insights.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "categories": ["health", "fitness", "lifestyle", "medical", "utilities"],
+  "icons": [],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "features": [
+    "BMI Calculation",
+    "PDF Report Generation",
+    "Multiple Unit Systems",
+    "Health Recommendations",
+    "Ideal Weight Range",
+    "Offline Support"
+  ],
+  "shortcuts": [
+    {
+      "name": "Calculate BMI",
+      "short_name": "Calculate",
+      "description": "Open BMI Calculator",
+      "url": "/"
+    }
+  ]
+}
